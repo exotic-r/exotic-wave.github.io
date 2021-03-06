@@ -1,3 +1,3 @@
 ## Digital resume
 
-[view digital resume](exotic-wave.github.io)
+[view digital resume](https://exotic-wave.github.io/)
