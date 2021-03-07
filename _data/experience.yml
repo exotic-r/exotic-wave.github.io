@@ -2,13 +2,18 @@
 - company: JP Morgan & Chass
   position: Senior Associate Software Engineer
   duration: Aug, 2016 &mdash; Present
-  summary: Full stack developer. Main technologies are Python, Kafka, Apache Impala, Protocol Buffers. <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: > 
+    Developed and standardized the process to adjust market risk data.  
+    Orchestrated publishing upstream risk, stress and pnl data to our data warehouse.
+    Reconciled upstream and warehouse data to discover discrepancy.
+    <ul class="resume-item-list">
+    <li>Main technologies: Python, Kafka, Apache Impala, Protocol Buffers</li>
+    </ul>
 
 - position: Anaylst/Associate Software Engineer
   duration: Aug, 2016 &mdash; 2016
   summary: >
-    Full stack developer. Main technologies are Java 8, Javascript, MongoDB, Oracle, Spring boot, Cloud Foundry. 
+    Modernized data access by building a data distribution platform that provides RESTful single interface for to different data domains across the firm. 
     <ul class="resume-item-list">
-    <li>A project you are proud of</li>
-    <li>Another awesome project</li><li>or a team or department you worked with</li>
+    <li>Main technologies: Java 8, Javascript, MongoDB, Oracle, Spring boot, Cloud Foundry </li>
     </ul>
