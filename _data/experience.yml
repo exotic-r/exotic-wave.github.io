@@ -1,6 +1,10 @@
 # Jobs
-# JP Morgan
 - company: JP Morgan & Chass
   position: Senior Associate Software Engineer
   duration: Aug, 2016 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Full stack developer. Main technologies are Python, Kafka, Apache Impala, Protocol Buffers. <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+- company: JP Morgan & Chass
+  position: Anaylst/Associate Software Engineer
+  duration: Aug, 2016 &mdash; 2016
+  summary: Full stack developer. Main technologies are Java 8, Javascript, MongoDB, Oracle, Spring boot, Cloud Foundry. <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
