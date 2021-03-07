@@ -4,11 +4,13 @@
   year: 2013 &mdash; 2016
   awards:
     - award: Peer Support volunteer
-  summary: Overall score 2.1
+    - award:  Overall score 2.1
+  #summary: 
 
 - degree: Foundation Course
   uni: Bellerbys College
   year: 2012 &mdash; 2013
   awards: 
    - award: OBX ( Oxford Business X )
-  summary: Overall score 77%%
+   - award: Overall score 77%%
+  #summary: 
