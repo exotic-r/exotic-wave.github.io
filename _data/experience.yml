@@ -3,11 +3,12 @@
   position: Senior Associate Software Engineer
   duration: Aug, 2016 &mdash; Present
   summary: > 
-    Developed and standardized the process to adjust market risk data.  
+    Developed and standardized the process to adjust market risk data.
     Orchestrated publishing upstream risk, stress and pnl data to our data warehouse.
     Reconciled upstream and warehouse data to discover discrepancy.
+    Achieved risk data access 
     <ul class="resume-item-list">
-    <li>Main technologies: Python, Kafka, Apache Impala, Protocol Buffers</li>
+    <li>Main technologies: Python (Pandas, Tornado), Kafka, Apache Impala, Protocol Buffers, Javascript (React)</li>
     </ul>
 
 - position: Anaylst/Associate Software Engineer
