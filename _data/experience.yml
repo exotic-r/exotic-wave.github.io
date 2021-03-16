@@ -8,7 +8,7 @@
     Developed REST APIs to access market risk data from our HDFS cluster and publish additional risk data.
     Implemented UI features for product controls to adjust/publish risk data.
     <ul class="resume-item-list">
-    <li>Main technologies: Python (Pandas, Tornado), Kafka, Apache Impala, Protocol Buffers, Javascript (React)</li>
+    <li>Main technologies: Python (Pandas, Tornado, Flask), Kafka, Apache Impala, Protocol Buffers, Javascript (React)</li>
     </ul>
 
 - position: Anaylst/Associate Software Engineer
